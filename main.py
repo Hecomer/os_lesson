@@ -4,6 +4,7 @@ for i in range(3):
 
 
 def func2(x):
+    print(x)
     return x ** 3
 
 
