@@ -1,0 +1,77 @@
+[33mcommit 7b74b3ac97547ea11af9185a0dc823dece44a435[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Ляндин Ян <62989661+Hecomer@users.noreply.github.com>
+Date:   Wed Nov 22 10:37:36 2023 +0500
+
+    Update main.py
+    
+    added privet
+
+[33mcommit 4fdcaa5cf621e3e2b7a422d448db148b3a9bd603[m
+Author: user <yan.lyandin111@yandex.ru>
+Date:   Wed Nov 22 10:31:10 2023 +0500
+
+    added logging for func2 again
+
+[33mcommit dc72414cac5a335138d0b0d812d5581b552ed89f[m
+Merge: c71edbb 84b1949
+Author: user <yan.lyandin111@yandex.ru>
+Date:   Wed Nov 22 10:28:38 2023 +0500
+
+    Merge branch 'feature_func2'
+    
+    # Conflicts:
+    #       main.py
+
+[33mcommit 84b194946eb7735ce0fb5c04b7b90d40fa66457d[m[33m ([m[1;32mfeature_func2[m[33m)[m
+Author: user <yan.lyandin111@yandex.ru>
+Date:   Wed Nov 22 10:23:52 2023 +0500
+
+    added logging func2
+
+[33mcommit c71edbb99c4624ee7f13a8e33027d2f52edaba8a[m
+Author: user <yan.lyandin111@yandex.ru>
+Date:   Wed Nov 22 10:16:54 2023 +0500
+
+    Revert "Revert "Revert "added func2"""
+    
+    This reverts commit 8bee1ba92e7173fa0d3e1adc21948bec456e13d0.
+
+[33mcommit 8bee1ba92e7173fa0d3e1adc21948bec456e13d0[m
+Author: user <yan.lyandin111@yandex.ru>
+Date:   Wed Nov 22 10:16:43 2023 +0500
+
+    Revert "Revert "added func2""
+    
+    This reverts commit 5cc470187bf6429c213f37829cb6f7dcd383468e.
+
+[33mcommit 5cc470187bf6429c213f37829cb6f7dcd383468e[m
+Author: user <yan.lyandin111@yandex.ru>
+Date:   Wed Nov 22 10:15:52 2023 +0500
+
+    Revert "added func2"
+    
+    This reverts commit 4f46e88c0b0689b6db365d32d92581972dded098.
+
+[33mcommit 4f46e88c0b0689b6db365d32d92581972dded098[m
+Author: user <yan.lyandin111@yandex.ru>
+Date:   Wed Nov 22 10:14:30 2023 +0500
+
+    added func2
+
+[33mcommit a9bb195a2b20b820113a1ea87be3ed90209ff4b0[m
+Author: user <yan.lyandin111@yandex.ru>
+Date:   Wed Nov 22 10:04:54 2023 +0500
+
+    sdelal for
+
+[33mcommit 5b79fe7cbe722807d3fded8dd677f92013374f0c[m
+Author: user <yan.lyandin111@yandex.ru>
+Date:   Wed Nov 22 10:00:42 2023 +0500
+
+    sdelal print
+
+[33mcommit 2c2c646f4fc055736cc65711761048afc78feef7[m
+Author: user <yan.lyandin111@yandex.ru>
+Date:   Wed Nov 22 09:57:19 2023 +0500
+
+    bibibibi
