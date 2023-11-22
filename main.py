@@ -8,4 +8,5 @@ def func2(x):
     return x ** 3
 
 
+print("Hello")
 print(func2(10))
